@@ -1,0 +1,10 @@
+header{
+    background-color: #FFF8F4;
+    background-image: url('./pngwing\ 10.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    padding: 2rem 9%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
